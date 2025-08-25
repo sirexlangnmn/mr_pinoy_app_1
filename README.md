@@ -10,7 +10,7 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/sirexlangnmn/mr_pinoy_app_1
 cd repo-folder-name
-
+```bash
 
 
 ### 2. Install dependencies
