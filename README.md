@@ -26,7 +26,8 @@ npx expo start
 
 
 
-▶️ Running the App
+### 4. ▶️ Running the App
+
 
 When you run npx expo start, the terminal may give you two options:
 
